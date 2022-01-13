@@ -16,6 +16,6 @@ Online kurz Testovanie Softvéru I. Začiatočník je pre teba ideálny, ak chce
 ## :heavy_check_mark: Využitie Testovanie Softvéru
 1. **Webové aplikácie**
 2. Mobilné (web) aplikácie
-3. Automatizované a manuále testovanie
+3. Automatizované a manuálne testovanie
 4. Funkčné testovanie
 5. Konverzia testov do Javy/C#/Python/Ruby
