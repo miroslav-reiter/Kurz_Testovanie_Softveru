@@ -13,7 +13,7 @@ Online kurz Testovanie Softvéru I. Začiatočník je pre teba ideálny, ak chce
 7. Štrukturálne testovanie
 8. Techniky návrhov testov podľa špecifikácie
 
-## :heavy_check_mark: Využitie Testovanie Softvéru
+## :heavy_check_mark: Využitie Testovania Softvéru
 1. **Webové aplikácie**
 2. Mobilné (web) aplikácie
 3. Automatizované a manuálne testovanie
